@@ -1,0 +1,52 @@
+{
+  "id": 1108702769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"116.2475611,40.081069,116.2475611,40.081069",
+    "geom:latitude":40.081069,
+    "geom:longitude":116.247561,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "sg:address":"No. 7, Fengxian M. Rd., Haidian District",
+    "sg:city":"Beijing",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"100094",
+    "sg:website":"http://www.chemclin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5niODR9GLQR4kkg9ALGOtq_40.081069_116.247561@1308163241"
+    },
+    "wof:country":"CN",
+    "wof:created":1474570880,
+    "wof:geomhash":"acf846b661a73e3c805f492c4be16c4d",
+    "wof:hierarchy":[],
+    "wof:id":1108702769,
+    "wof:lastmodified":1474570880,
+    "wof:name":"Chemclin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.2475611,
+    40.081069,
+    116.2475611,
+    40.081069
+],
+  "geometry": {"coordinates":[116.2475611,40.081069],"type":"Point"}
+}

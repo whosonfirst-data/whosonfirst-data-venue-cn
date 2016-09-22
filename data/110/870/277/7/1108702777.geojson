@@ -1,0 +1,72 @@
+{
+  "id": 1108702777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.4238152,31.2061592,121.4238152,31.2061592",
+    "geom:latitude":31.206159,
+    "geom:longitude":121.423815,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "sg:address":"3F-B. No. 655, Dingxi Rd.",
+    "sg:city":"Shanghai",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"200052",
+    "sg:tags":[
+        "fab-less-semiconductor"
+    ],
+    "sg:website":"http://www.iml-inc.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903635,
+        102191569,
+        85632695,
+        102027181,
+        85669831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1urwhHJ6TuJ659XID2S8fS_31.206159_121.423815@1308163242"
+    },
+    "wof:country":"CN",
+    "wof:created":1474570880,
+    "wof:geomhash":"82b7b404331d2b03595fcacf52312bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "locality_id":102027181,
+            "neighbourhood_id":85903635,
+            "region_id":85669831,
+            "venue_id":1108702777
+        }
+    ],
+    "wof:id":1108702777,
+    "wof:lastmodified":1474570880,
+    "wof:name":"iML",
+    "wof:parent_id":85903635,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fab-less-semiconductor"
+    ]
+},
+  "bbox": [
+    121.4238152,
+    31.2061592,
+    121.4238152,
+    31.2061592
+],
+  "geometry": {"coordinates":[121.42381520000001,31.2061592],"type":"Point"}
+}

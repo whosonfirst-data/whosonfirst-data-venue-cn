@@ -1,0 +1,92 @@
+{
+  "id": 1108702761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9205471,53.5639888,9.9205471,53.5639888",
+    "geom:latitude":53.563989,
+    "geom:longitude":9.920547,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "sg:address":"Room 2026, No.1438 Shaanxi Road (North)/ Changshou Road",
+    "sg:city":"Shanghai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"200060",
+    "sg:tags":[
+        "jimdo",
+        "ajax",
+        "siteeditor",
+        "websiteeditor",
+        "website",
+        "builder",
+        "free",
+        "website-creator",
+        "sitebuilder",
+        "sitecreator"
+    ],
+    "sg:website":"http://www.jimdo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682505,
+        102191581,
+        85633111,
+        101748841,
+        102064053,
+        85899761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ND3H0RUembGfc8RXdPFhf_53.563989_9.920547@1308163236"
+    },
+    "wof:country":"CN",
+    "wof:created":1474570879,
+    "wof:geomhash":"ccccd25c676b2da2584a0223910b9409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064053,
+            "locality_id":101748841,
+            "neighbourhood_id":85899761,
+            "region_id":85682505,
+            "venue_id":1108702761
+        }
+    ],
+    "wof:id":1108702761,
+    "wof:lastmodified":1474570879,
+    "wof:name":"Jimdo",
+    "wof:parent_id":85899761,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jimdo",
+        "ajax",
+        "siteeditor",
+        "websiteeditor",
+        "website",
+        "builder",
+        "free",
+        "website-creator",
+        "sitebuilder",
+        "sitecreator"
+    ]
+},
+  "bbox": [
+    9.9205471,
+    53.5639888,
+    9.9205471,
+    53.5639888
+],
+  "geometry": {"coordinates":[9.9205471,53.5639888],"type":"Point"}
+}

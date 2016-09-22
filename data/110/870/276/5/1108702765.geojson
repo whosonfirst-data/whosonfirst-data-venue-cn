@@ -1,0 +1,76 @@
+{
+  "id": 1108702765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.4137257,31.2366983,121.4137257,31.2366983",
+    "geom:latitude":31.236698,
+    "geom:longitude":121.413726,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "sg:address":"Room 311, Bldg.2, No.900, North Zhongshan road,",
+    "sg:city":"Shanghai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"200070",
+    "sg:tags":[
+        "web-development",
+        "web-design",
+        "drupal-services"
+    ],
+    "sg:website":"http://www.davyin.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907467,
+        102191569,
+        85632695,
+        102027181,
+        85669831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62pi6Oqgu2LcMROZxf1lrR_31.236698_121.413726@1308163241"
+    },
+    "wof:country":"CN",
+    "wof:created":1474570879,
+    "wof:geomhash":"45fe98b47c323efd23ef4e229063e5dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "locality_id":102027181,
+            "neighbourhood_id":85907467,
+            "region_id":85669831,
+            "venue_id":1108702765
+        }
+    ],
+    "wof:id":1108702765,
+    "wof:lastmodified":1474570879,
+    "wof:name":"Davyin Internet Solutions",
+    "wof:parent_id":85907467,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-development",
+        "web-design",
+        "drupal-services"
+    ]
+},
+  "bbox": [
+    121.4137257,
+    31.2366983,
+    121.4137257,
+    31.2366983
+],
+  "geometry": {"coordinates":[121.4137257,31.2366983],"type":"Point"}
+}

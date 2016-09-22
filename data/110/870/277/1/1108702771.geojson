@@ -1,0 +1,52 @@
+{
+  "id": 1108702771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.7094773,31.2427834,121.7094773,31.2427834",
+    "geom:latitude":31.242783,
+    "geom:longitude":121.709477,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "sg:address":"590 Ruiqing Road  Zhangjiang East Campus, Pudong,",
+    "sg:city":"Shanghai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"201201",
+    "sg:website":"http://www.hdbiosciences.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34dCKSRVn2ZA5GuiKvh2qf_31.242783_121.709477@1308163241"
+    },
+    "wof:country":"CN",
+    "wof:created":1474570880,
+    "wof:geomhash":"c6981c68f955dee4eb2ec5df67e6fb3c",
+    "wof:hierarchy":[],
+    "wof:id":1108702771,
+    "wof:lastmodified":1474570880,
+    "wof:name":"HD Biosciences",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7094773,
+    31.2427834,
+    121.7094773,
+    31.2427834
+],
+  "geometry": {"coordinates":[121.7094773,31.2427834],"type":"Point"}
+}

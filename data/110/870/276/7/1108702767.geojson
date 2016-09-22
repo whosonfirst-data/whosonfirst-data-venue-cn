@@ -1,0 +1,52 @@
+{
+  "id": 1108702767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"116.5115791,39.8026472,116.5115791,39.8026472",
+    "geom:latitude":39.802647,
+    "geom:longitude":116.511579,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "sg:address":"Building 1, No. 13, YongChang North Road Beijing Economic-Technological Development Area",
+    "sg:city":"Beijing",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"100176",
+    "sg:website":"http://www.techfaithwireless.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GAgGqE1O2mjS6CjHIk2rq_39.802647_116.511579@1308163241"
+    },
+    "wof:country":"CN",
+    "wof:created":1474570879,
+    "wof:geomhash":"00a69e06db1b58adf15b2be930214c93",
+    "wof:hierarchy":[],
+    "wof:id":1108702767,
+    "wof:lastmodified":1474570879,
+    "wof:name":"TechFaith",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.5115791,
+    39.8026472,
+    116.5115791,
+    39.8026472
+],
+  "geometry": {"coordinates":[116.51157910000001,39.8026472],"type":"Point"}
+}

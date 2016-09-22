@@ -1,0 +1,63 @@
+{
+  "id": 1108702775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.208711,55.902143,-3.208711,55.902143",
+    "geom:latitude":55.902143,
+    "geom:longitude":-3.208711,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "sg:address":"B701, R&D Plaza, Tsinghua Science Park",
+    "sg:city":"Beijing ",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"100084 ",
+    "sg:website":"http://www.altobeam.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633159,
+        85787337,
+        85684349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nieIK0sIf1a9iqXkRoAUU_55.902143_-3.208711@1308163241"
+    },
+    "wof:country":"CN",
+    "wof:created":1474570880,
+    "wof:geomhash":"9c19ccc88d9b1823b3797bddf8983529",
+    "wof:hierarchy":[
+        {
+            "country_id":85633159,
+            "neighbourhood_id":85787337,
+            "region_id":85684349,
+            "venue_id":1108702775
+        }
+    ],
+    "wof:id":1108702775,
+    "wof:lastmodified":1474570880,
+    "wof:name":"Altobeam",
+    "wof:parent_id":85787337,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.208711,
+    55.902143,
+    -3.208711,
+    55.902143
+],
+  "geometry": {"coordinates":[-3.208711,55.902143],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1108702781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"116.395833,39.905556,116.395833,39.905556",
+    "geom:latitude":39.905556,
+    "geom:longitude":116.395833,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "sg:address":"D/20F, The Place, #9 Guanghua Road Chaoyang District",
+    "sg:city":"Beijing",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"100020",
+    "sg:website":"http://www.koolanoogroup.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904201,
+        102191569,
+        85632695,
+        102027745,
+        85669727,
+        85906915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xKu78mPUr5Nm6j0u2woYE_39.905556_116.395833@1308163238"
+    },
+    "wof:country":"CN",
+    "wof:created":1474570880,
+    "wof:geomhash":"afbac97271feb77c565477b6b83d596e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "locality_id":102027745,
+            "neighbourhood_id":85904201,
+            "region_id":85669727,
+            "venue_id":1108702781
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "locality_id":102027745,
+            "neighbourhood_id":85906915,
+            "region_id":85669727,
+            "venue_id":1108702781
+        }
+    ],
+    "wof:id":1108702781,
+    "wof:lastmodified":1474570880,
+    "wof:name":"Koolanoo Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.395833,
+    39.905556,
+    116.395833,
+    39.905556
+],
+  "geometry": {"coordinates":[116.395833,39.905556],"type":"Point"}
+}

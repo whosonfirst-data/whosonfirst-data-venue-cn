@@ -1,0 +1,84 @@
+{
+  "id": 1108702779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.169241,22.313675,114.169241,22.313675",
+    "geom:latitude":22.313675,
+    "geom:longitude":114.169241,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "sg:address":"21204 498 guo shoujing road",
+    "sg:city":"Shanghai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"201203",
+    "sg:tags":[
+        "panorama",
+        "virtual",
+        "tour",
+        "panoramic",
+        "360",
+        "spherical",
+        "stitch",
+        "reality",
+        "vr",
+        "realtor"
+    ],
+    "sg:website":"http://www.easypano.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85908029,
+        85671791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MI7iNFqVuvXEwKJqsyJQl_22.313675_114.169241@1308163238"
+    },
+    "wof:country":"CN",
+    "wof:created":1474570880,
+    "wof:geomhash":"9dd197cc7a3becbdd8f8576df424362a",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85908029,
+            "region_id":85671791,
+            "venue_id":1108702779
+        }
+    ],
+    "wof:id":1108702779,
+    "wof:lastmodified":1474570880,
+    "wof:name":"Easypano",
+    "wof:parent_id":85908029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "panorama",
+        "virtual",
+        "tour",
+        "panoramic",
+        "360",
+        "spherical",
+        "stitch",
+        "reality",
+        "vr",
+        "realtor"
+    ]
+},
+  "bbox": [
+    114.169241,
+    22.313675,
+    114.169241,
+    22.313675
+],
+  "geometry": {"coordinates":[114.169241,22.313675],"type":"Point"}
+}

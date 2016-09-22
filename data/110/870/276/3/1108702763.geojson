@@ -1,0 +1,80 @@
+{
+  "id": 1108702763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.4314771,31.1901161,121.4314771,31.1901161",
+    "geom:latitude":31.190116,
+    "geom:longitude":121.431477,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "sg:address":"Building 5, Unit 112 Lane 314 Tongren Lu",
+    "sg:city":"Shanghai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"200040",
+    "sg:tags":[
+        "property-b2b",
+        "asia-b2b",
+        "industrial-property-directory",
+        "real-estate-b2b",
+        "industrial-real-estate-directory"
+    ],
+    "sg:website":"http://rightsite.asia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903643,
+        102191569,
+        85632695,
+        102027181,
+        85669831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CvlKyUFrVpSL0YT2kAR2R_31.190116_121.431477@1308163239"
+    },
+    "wof:country":"CN",
+    "wof:created":1474570879,
+    "wof:geomhash":"c1dad468015dc2b99f1267f3113308e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "locality_id":102027181,
+            "neighbourhood_id":85903643,
+            "region_id":85669831,
+            "venue_id":1108702763
+        }
+    ],
+    "wof:id":1108702763,
+    "wof:lastmodified":1474570879,
+    "wof:name":"RightSite",
+    "wof:parent_id":85903643,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property-b2b",
+        "asia-b2b",
+        "industrial-property-directory",
+        "real-estate-b2b",
+        "industrial-real-estate-directory"
+    ]
+},
+  "bbox": [
+    121.4314771,
+    31.1901161,
+    121.4314771,
+    31.1901161
+],
+  "geometry": {"coordinates":[121.4314771,31.1901161],"type":"Point"}
+}

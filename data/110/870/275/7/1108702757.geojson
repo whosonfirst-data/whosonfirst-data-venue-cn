@@ -1,0 +1,47 @@
+{
+  "id": 1108702757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"125.991211,29.954935,125.991211,29.954935",
+    "geom:latitude":29.954935,
+    "geom:longitude":125.991211,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "sg:classifiers":[],
+    "sg:owner":"simplegeo",
+    "sg:tags":[
+        "dragon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jaEY2ZriN5AdL9wQyNCcT_29.954935_125.991211@-14516236800"
+    },
+    "wof:country":"CN",
+    "wof:created":1474570879,
+    "wof:geomhash":"70a22ca2e16a20767cb2366044be4d9a",
+    "wof:hierarchy":[],
+    "wof:id":1108702757,
+    "wof:lastmodified":1474570879,
+    "wof:name":"HC SVNT DRACONES",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dragon"
+    ]
+},
+  "bbox": [
+    125.991211,
+    29.954935,
+    125.991211,
+    29.954935
+],
+  "geometry": {"coordinates":[125.99121100000001,29.954935],"type":"Point"}
+}
