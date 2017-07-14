@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-07-14",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.208711,55.902143,-3.208711,55.902143",
     "geom:latitude":55.902143,
     "geom:longitude":-3.208711,
     "iso:country":"CN",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B701, R&D Plaza, Tsinghua Science Park",
     "sg:city":"Beijing ",
     "sg:classifiers":[
@@ -34,7 +37,7 @@
     },
     "wof:country":"CN",
     "wof:created":1474570880,
-    "wof:geomhash":"9c19ccc88d9b1823b3797bddf8983529",
+    "wof:geomhash":"c043e2bad491613a5da846e9d5b762a6",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1108702775,
-    "wof:lastmodified":1474570880,
+    "wof:lastmodified":1500064219,
     "wof:name":"Altobeam",
     "wof:parent_id":85787337,
     "wof:placetype":"venue",
